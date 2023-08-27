@@ -33,4 +33,4 @@ Follow this instruction to deploy the API on Cloud Run
 # API Documentation
 https://backend-6o3njyuh4q-et.a.run.app/docs
 
-# Backend Team -Rakyan Krisna Dewangga-
+# Backend Team Calendivity
